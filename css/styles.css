@@ -189,8 +189,10 @@ a {
 }
 .team-list {
   display: flex;
-  justify-content: center;
   gap: 24px;
+}
+.team-img {
+  display: block;
 }
 .team-item {
   border-radius: 0 0 4px 4px;
@@ -202,6 +204,7 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 .team-text {
   font-weight: 400;
