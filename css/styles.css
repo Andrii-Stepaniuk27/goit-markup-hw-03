@@ -196,6 +196,7 @@ a {
 }
 .team-item {
   border-radius: 0 0 4px 4px;
+  flex-basis: 264px;
 }
 .team-title {
   font-weight: 500;
@@ -235,7 +236,6 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-
   margin-bottom: 72px;
 }
 .portfolio-description {
@@ -244,6 +244,7 @@ a {
   gap: 48px 24px;
 }
 .portfolio-list {
+  flex-basis: 360px;
 }
 .portfolio-img {
   display: block;
